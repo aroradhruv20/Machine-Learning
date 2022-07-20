@@ -6,4 +6,4 @@ Scientists have been working over years to assemble and accumulate data from bio
 
 To overcome the preceding challenges, the data needs to be analyzed efficiently and at minimum costs. Machine Learning serves as the best possible solution towards reducing the increasing costs as well as in the establishment of better doctor-physician relationships. ML and BDA can together be used for several healthcare-based applications including treatments for cancer, many rare diseases leading the way towards personalized medications. Efficient data mining techniques can provide with endless possibilities for data model analysis to reveal patterns that can be used by healthcare professionals in forecasting, diagnosis and treatment of patients. You can follow our Step By Step presentation for better understanding:-
 
-https://docs.google.com/presentation/d/1TY55RfyY3Nd1BMrOzJ5TEfIDQI6JkoZX/edit?usp=sharing&ouid=100773135275858696871&rtpof=true&sd=true
+https://drive.google.com/file/d/1TY55RfyY3Nd1BMrOzJ5TEfIDQI6JkoZX/view?usp=sharing
